@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradientBoost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab5d5557f674916b61cc2e8d24bbc6da917c4242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f9d11d7ffb790d894a7ef3d3e5d52984dc3cd99")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradientBoost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradientBoost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
